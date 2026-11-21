@@ -24,7 +24,7 @@ Antes de comenzar, asegúrate de tener instalados los siguientes componentes:
 
    ```bash
    git clone https://github.com/VSGdev-ops/Flask-Gesti-n-Users.git
-   cd Flask-Gestion-Users
+   cd Flask-Gesti-n-Users
 
 
 ![image](https://github.com/user-attachments/assets/472cae2b-280c-47f3-8fc1-ed01e989209b)
